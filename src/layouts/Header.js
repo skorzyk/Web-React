@@ -9,11 +9,7 @@ const Header = () => {
   return (
     <>
       <Switch>
-        <Route
-          path="/Web-React"
-          exact
-          render={() => <img src={img4} alt="sport4" />}
-        />
+        <Route path="/" exact render={() => <img src={img4} alt="sport4" />} />
         <Route path="/advices" render={() => <img src={img1} alt="sport1" />} />
         <Route path="/contact" render={() => <img src={img2} alt="sport2" />} />
         <Route path="/admin" render={() => <img src={img3} alt="sport3" />} />
