@@ -1,0 +1,33 @@
+.advices {
+    display: block;
+    margin-left: 20%;
+
+
+}
+
+.advices h2 {
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.advices ul {
+    list-style: square;
+    padding-left: 20px;
+
+}
+
+.advices li {
+    margin-bottom: 20px;
+}
+
+.advices a {
+    text-decoration: none;
+    color: #333;
+    transition: 0.2s;
+}
+
+.advices a:hover {
+    text-decoration: underline;
+    color: black;
+    font-size: 21px;
+}
