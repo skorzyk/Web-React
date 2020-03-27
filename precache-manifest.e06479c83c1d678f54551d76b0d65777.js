@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "cbb8cae8c8ec20e82370",
+    "revision": "d37444c674e8f998ce44",
     "url": "/Web-React/static/css/main.0e255fa2.chunk.css"
   },
   {
-    "revision": "cbb8cae8c8ec20e82370",
-    "url": "/Web-React/static/js/main.f59d3bb3.chunk.js"
+    "revision": "d37444c674e8f998ce44",
+    "url": "/Web-React/static/js/main.34264188.chunk.js"
   },
   {
     "revision": "1bcae934622e7955b397",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/Web-React/static/media/sport3.b99133f3.jpg"
   },
   {
-    "revision": "b719d2073399c12d3a08df1c99dbdfd5",
+    "revision": "6e207cc59bc03e8788600fb9dc0f54cc",
     "url": "/Web-React/index.html"
   }
 ];
