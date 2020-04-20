@@ -1,10 +1,6 @@
-import React from 'react';
+import React from "react";
 const Footer = () => {
-    return (
-        <div>
-            © Kamil Skórzyński
-        </div>
-    );
-}
+  return <div>© Kamil Skórzyński</div>;
+};
 
 export default Footer;
